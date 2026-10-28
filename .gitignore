@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+*.local.env
+checkpoints/
+outputs/
+cache/
+*.pt
+*.pth
+*.mp4
+*.log
+*.html
